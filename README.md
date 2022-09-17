@@ -1,2 +1,2 @@
 # CMIN216HTML
-Website utilizing HTML,+CSS
+Website project for Foundational class utilizing HTML+CSS
