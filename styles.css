@@ -1,0 +1,62 @@
+/* CSS Reset*/
+body, header, main, figure, figcaption, section, h3,p , h1{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+header{
+    text-align: center;
+    font-size:2em;
+    color: #DDC77A;
+    text-shadow: 4px 4px black;
+}
+
+header h1{
+    font-family: 'Libre Baskerville', serif;
+    padding:2%
+}
+
+main{
+    background-image: linear-gradient(to bottom right, gray, white);
+    padding: 2%;
+    overflow: auto;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#lol, #tft, #lor, #val{
+    margin: 0 2%;
+    width:20%;
+    float: left;
+}
+
+footer{
+    text-align: center;
+    font-size: 1em;
+    clear: left;
+}
+
+img{
+    width:100%;
+    height:auto;
+    max-width:100%;
+    position:center;
+}
+
+figure{
+    padding:2%;
+}
+
+.riot{
+    display:block;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+figcaption{
+    position:center;
+    text-align:center;
+}
+
+
